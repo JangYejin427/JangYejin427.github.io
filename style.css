@@ -1,0 +1,41 @@
+body {
+    background-image : url("https://i.ytimg.com/vi/xJIdJpMrnY8/maxresdefault.jpg");
+    background-attachment: fixed; background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+table { padding : 50px; }
+
+.banner {
+    width: 100%;
+    font-family: '바탕';
+}
+
+h1 {
+    color : white;
+    font-size: 38px;
+}
+
+h3 { text-align: center; }
+h4 { text-align: center; }
+
+
+a { text-decoration: none; color: white; }
+
+hr { color: white; }
+
+.hello{
+    font-family:'굴림'; text-align: center; 
+}
+
+.foot {
+    width: 100%;
+    font-family:'굴림';
+    font-size: 15px;
+    text-align: center;
+}
+
+img {
+    display: inline;
+}
